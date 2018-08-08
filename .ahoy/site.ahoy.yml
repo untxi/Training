@@ -54,7 +54,7 @@ commands:
       SITE_UUID="7e9d3961-144c-4903-bd27-4ef8af6d34ae"
       ahoy drush cc drush
       echo "Installing..."
-      ahoy drush site install humpback --account-pass=admin -y
+      ahoy drush site-install humpback --account-pass=admin -y
       echo "Set site uuid..."
       ahoy drush config-set "system.site" uuid "$SITE_UUID" -y
       echo "Importing config..."

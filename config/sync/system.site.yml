@@ -1,0 +1,14 @@
+uuid: 7e9d3961-144c-4903-bd27-4ef8af6d34ae
+name: humpback
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
